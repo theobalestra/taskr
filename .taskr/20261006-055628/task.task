@@ -1,0 +1,9 @@
+taskr_version: 1
+
+name: allow for custom tags
+author: theobalestra
+status: filed
+priority: 75
+tags:
+	- feature
+	- v2

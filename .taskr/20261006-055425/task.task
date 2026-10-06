@@ -1,0 +1,8 @@
+taskr_version: 1
+
+name: id not padding values with 0s
+author: theobalestra
+status: done
+priority: 90
+tags:
+	- bug

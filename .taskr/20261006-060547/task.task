@@ -1,0 +1,9 @@
+taskr_version: 1
+
+name: Allow archiving tasks
+author: theobalestra
+status: filed
+priority: 90
+tags:
+	- feature
+	- v1

@@ -1,0 +1,9 @@
+taskr_version: 1
+
+name: Allow updating tasks
+author: theobalestra
+status: filed
+priority: 100
+tags:
+	- feature
+	- v1

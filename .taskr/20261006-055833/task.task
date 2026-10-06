@@ -1,0 +1,9 @@
+taskr_version: 1
+
+name: LSP engine for editor integration
+author: theobalestra
+status: filed
+priority: 90
+tags:
+	- feature
+	- v1.5
